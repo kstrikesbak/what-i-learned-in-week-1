@@ -21,7 +21,9 @@ ___
 
 ## `THE ADVENTURES OF LINK` 
 
-I really enjoyed this activity as it allows us to be creative 
+I really enjoyed this activity as it allows us to be creative. We made several html files and added them to the <href> tag so that links would lead to other pages being opened. 
+I started off by making jokes and then when I got the hang of it...
+I decided to add an image of a maths question with four possible answers. I made 4 html links for those answers leading to advice on the answer. On all four links, there was an option to go back to the original question. 
 
 ___
 
