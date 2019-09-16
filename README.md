@@ -29,8 +29,12 @@ ___
 
 ## `HUMAN RESOURCES`
 
+The human resources activities engaged our problem solving skills in preparation for javascript. It got us thinking about the tasks in hand and instructions needed to solve certain tasks.
+
 ___
 
 ## `FLOW CHARTS`
+
+Flow charts forced us to think about processes and the steps involved in solving problems. It taught me that simplifying a problem enables us to understand a problem and the different actions, decisions, inputs and outputs that could be involved.
 
 <!-- jkhejifhdijghrjfg -->
