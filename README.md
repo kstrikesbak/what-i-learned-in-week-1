@@ -27,7 +27,10 @@ I decided to add an image of a maths question with four possible answers. I made
 
 ___
 
+## `HUMAN RESOURCES`
 
+___
 
+## `FLOW CHARTS`
 
 <!-- jkhejifhdijghrjfg -->
